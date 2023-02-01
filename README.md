@@ -1,6 +1,6 @@
 ## Olá, meu nome é Jhonatan 👋
 <div align="left">
-  <img alt="GIF" src="https://media.giphy.com/media/aCgRZuk6GqOQ4w4BTY/giphy.gif" width = 100/><br>
+  <img  height="235em" alt="GIF" src="https://media.giphy.com/media/hrdX1BsUBq7DkGJCCd/giphy.gif" width = 200/><br>
   <a href="https://github.com/jhowg14">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jhowg14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
